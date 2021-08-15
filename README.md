@@ -38,6 +38,6 @@ present, or future.
 * [Alpine Linux Cloud](https://gitlab.alpinelinux.org/alpine/cloud) - I am one
   of the primary maintainers of the Alpine Linux cloud images and have several
   repositories here.
-* [Alpine Linux Packages](https://pkgs.alpinelinux.org/packages?maintainer=Mike+Crute&arch=x86_64)
-  - I maintain a few packages for Alpine Linux that are authored in the
+* [Alpine Linux Packages](https://pkgs.alpinelinux.org/packages?maintainer=Mike+Crute&arch=x86_64) -
+  I maintain a few packages for Alpine Linux that are authored in the
   [aports](https://gitlab.alpinelinux.org/alpine/aports/) collection.
